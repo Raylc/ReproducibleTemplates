@@ -63,7 +63,7 @@ output:
 ## Resources available
 - [Dr. Ben Marwick's GitHub](https://github.com/benmarwick/ctv-archaeology)
 
-- [Dr. Melinda Higgins Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis)
+- [Dr. Melinda Higgins's Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis)
 
 - [Duke University's Statistics with R](https://www.coursera.org/specializations/statistics)
 
