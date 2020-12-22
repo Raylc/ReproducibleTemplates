@@ -3,8 +3,8 @@ title: "Slide template"
 author: "Cheng Liu"
 date: "12/16/2020"
 output:
-  ioslides_presentation: default
   slidy_presentation: default
+  ioslides_presentation: default
 ---
 
 ```{r setup, include=FALSE}
@@ -59,7 +59,7 @@ $$ Y = \beta_0 + \beta_1x $$
 
 ## A slide with 2 columns an image and a bulleted list {.columns-2}
 
-![](sunstar.png)
+![](https://www.r-project.org/logo/Rlogo.png)
 
 - bullet 1
 - bullet 2

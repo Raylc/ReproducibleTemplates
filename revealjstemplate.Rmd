@@ -4,7 +4,7 @@ author: "Cheng Liu"
 date: "December 16, 2020"
 output: 
   revealjs::revealjs_presentation:
-      transition: zoom
+      transition: slide
       theme: solarized
       highlight: kate
       center: true
